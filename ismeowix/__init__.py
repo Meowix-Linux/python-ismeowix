@@ -1,2 +1,2 @@
 #!/usr/bin/env python
-import ismeowix
+from .ismeowix import check
