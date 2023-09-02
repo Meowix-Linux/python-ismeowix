@@ -24,19 +24,25 @@ Pre-built packages are available on [PyPI](https://pypi.org/project/ismeowix) (f
 
 To build the package manually, follow these steps:
 
-1. Clone this repository:
+1. Install needed dependencies:
+
+```bash
+sudo pacman -S --needed python python-build python-colorama python-distro
+```
+
+3. Clone this repository:
 
 ```bash
 git clone https://github.com/Meowix-Linux/python-ismeowix.git
 ```
 
-2. Navigate to the repository directory:
+3. Navigate to the repository directory:
 
 ```bash
 cd python-ismeowix
 ```
 
-3. Build the package:
+4. Build the package:
 
 ```bash
 python -m build
