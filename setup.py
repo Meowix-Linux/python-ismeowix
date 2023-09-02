@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='ismeowix',
-    version='0.2',
+    version='0.3',
     author='Nekosis',
     description='Library for Meowix Python applications to check if the intended operating system is being used',
     long_description=open('README.md').read(),
