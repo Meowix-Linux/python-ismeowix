@@ -39,7 +39,7 @@ cd python-ismeowix
 3. Build the package:
 
 ```bash
-python setup.py sdist bdist_wheel
+python -m build
 ```
 
 After the above command finishes, there should be package files in the `dist/` directory.
