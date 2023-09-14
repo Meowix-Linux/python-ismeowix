@@ -12,8 +12,6 @@
 
 ## Installation
 
-**NOTE: Information in this section is currently inaccurate! Please give us some time to get the packages uploaded and sorted out before following these steps.**
-
 You may either install a pre-built version of the package or build it yourself.
 
 ### Downloading a pre-built package
